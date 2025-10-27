@@ -1,5 +1,10 @@
 # CP5 – Modelo de Classificação com IA (Classificação de Câncer de Mama - UCI/Scikit-Learn)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/pedrinzz10/cp5-ia/blob/main/CP5_Projeto_Classificacao_Cancer_Mama.ipynb
+)
+
+
 ## 📌 Problema
 Classificar tumores como **Malignos** ou **Benignos** (classificação binária) usando medidas numéricas extraídas de imagens.
 
